@@ -3,3 +3,5 @@ Student Name: Sahana Shree
 Roll Number:1DT24CG035
 Department: CSD
 Semester: 5
+Attendance: 85%
+Result: PASS
